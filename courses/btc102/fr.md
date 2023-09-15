@@ -1,5 +1,5 @@
 ---
-name: BTC 102 – Obtenir ses premiers bitcoins
+name: Obtenir ses premiers bitcoins
 goal: Obtenir ses premiers bitcoins et les stocker dans un portefeuille Bitcoin de façon sécurisée avec une phrase mnémonique et un plan d'héritage.
 objectives:
   - Mettre à jour votre sécurité en ligne
@@ -19,7 +19,11 @@ En suivant ce plan, nous espérons que vous aurez toutes les cartes en main pour
 
 +++
 
-# Introduction à la formation BTC 102
+# Introduction
+
+## Bien se lancer
+
+### Les objectifs
 
 Bienvenue dans BTC 102 ! Un cours pratique qui va vous accompagner dans la mise en place de votre plan Bitcoin ! À travers ce cours, nous allons donc nous préparer à obtenir vos premiers bitcoins, les sécuriser correctement et garantir une bonne entrée dans cette nouvelle industrie.
 
@@ -28,6 +32,8 @@ L'industrie du bitcoin est encore jeune et considérée comme un phénomène en 
 De par cette impossibilité d'être régulé entièrement, Bitcoin a pu se développer de manière organique et décentralisée pendant plus de 14 ans. C'est donc une industrie en pleine explosion embryonnaire et qui ne demande qu'à continuer de croître.
 
 Qui dit explosion d'innovations et de possibilités dit forcément scams, arnaques et risques. Il va de soi que votre parcours dans Bitcoin ne se fera pas sans rebondissements ni erreurs. Néanmoins, afin de vous aider à les éviter au maximum, cette formation servira de guide pratique pour bien commencer. La formation BTC 101, quant à elle, est plus théorique pour bien comprendre le fonctionnement du Bitcoin.
+
+### Une stratégie en 4 points:
 
 Dans cette formation, nous allons nous focaliser sur 4 angles :
 
@@ -38,11 +44,7 @@ Dans cette formation, nous allons nous focaliser sur 4 angles :
 
 Vous l'avez compris, cette formation a vraiment pour but de vous accompagner afin que vous respectiez les meilleures pratiques de notre industrie dès le début, de manière simple et rapide !
 
-Bonne chance :)
-
-# Prérequis pour comprendre Bitcoin
-
-# Arnaques et fraudes financières
+### Bitcoin ou Blockchain ?
 
 Nous sommes dans une industrie ou deux branches principales émergent dans le secteur des "cryptomonnaies" :
 
@@ -52,7 +54,15 @@ Nous sommes dans une industrie ou deux branches principales émergent dans le se
 
 L'intégralité de cette université est porté sur l'univers Bitcoin et non crypto.
 
+Bonne chance :)
+
+# Prérequis pour comprendre Bitcoin
+
+## Arnaques et fraudes financières
+
 ![Arnaque et fraude financière](https://youtu.be/LeyI3CBw2g4)
+
+### Une industrie dangereuse
 
 Le domaine des cryptomonnaies, dont le Bitcoin, reste relativement jeune et légèrement régulé. Il est ainsi riche en escroqueries diverses. La compréhension des dangers et la reconnaissance des pièges typiques sont essentielles. Voici quelques situations d'escroquerie fréquemment rencontrées :
 
@@ -70,6 +80,8 @@ Le domaine des cryptomonnaies, dont le Bitcoin, reste relativement jeune et lég
 
 Dans le domaine de l'investissement financier, les systèmes de vente pyramidale et de Ponzi se distinguent comme des modèles illégaux. Ils fonctionnent en utilisant l'argent des nouveaux investisseurs pour rémunérer les anciens participants. Cependant, leur caractère non durable et leur dépendance à l'égard des nouveaux arrivants pour maintenir le système en marche les rendent susceptibles de s'effondrer inévitablement.
 
+### Les pyramides de Ponzi
+
 ![piramide de ponzi](assets/prerequis/7.JPG)
 
 Ces systèmes sont souvent caractérisés par des éléments douteux tels que l'absence de valeur intrinsèque, des promesses de rendements irréalistes, et des tactiques de marketing qui encouragent les recommandations pour attirer de nouveaux investisseurs. Des délais de retrait incompressibles et l'utilisation de faux profils sur les réseaux sociaux pour la promotion sont également des signes révélateurs de ces arnaques. Étant donné leur nature illégale et immorale et le risque financier qu'elles représentent, il est essentiel de les éviter.
@@ -83,6 +95,8 @@ Récemment, le monde des cryptomonnaies a connu une vague de projets liés à la
 Il convient de souligner que le contenu de ce cours est destiné à des fins purement éducatives et ne doit pas être interprété comme un conseil financier. L'exhortation à "ne pas faire confiance, mais vérifier" reste une ligne directrice importante. Il est essentiel que chacun mène ses propres recherches et prenne des décisions financières éclairées.
 
 Le Pump and Dump (P&D) est une forme notoire de manipulation financière qui peut causer des perturbations importantes sur les marchés. Elle se caractérise par une attaque coordonnée visant à provoquer une augmentation artificielle du prix d'un actif par le biais de divers mécanismes, comme le marketing agressif, l'utilisation d'algorithmes ou de l'intelligence artificielle. L'objectif est de vendre ensuite ces actifs surévalués pour réaliser un profit.
+
+### Les pump and dump
 
 ![Pump and dump](assets/prerequis/8.JPG)
 
@@ -101,6 +115,8 @@ Les arnaques liées à des concours ou des donations en ligne sont tres courants
 
 Un exemple classique de ce type d'arnaque est l'offre qui prétend doubler ou multiplier de façon démesurée les bitcoins que vous envoyez. Il est important de comprendre qu'il n'existe pas de solution magique pour devenir riche instantanément.
 
+### Attention aux promesses trop belles !
+
 ![arnaque à la donation](assets/prerequis/9.JPG)
 
 Une autre tactique couramment utilisée est le don de "shitcoins", ou crypto-monnaies de faible valeur. Certains projets de crypto-monnaies centralisées feront beaucoup de marketing et offriront des jetons gratuits en guise de cadeau. Il faut être très prudent face à ces offres, car soit le jeton a une valeur nulle, soit le cadeau sert simplement à attirer l'attention et à promouvoir le trading, le jeu et d'autres arnaques. Même si ces offres ne sont pas toujours frauduleuses, illégales ou trompeuses, la vigilance reste de mise.
@@ -117,7 +133,10 @@ Enfin, voici quelques conseils pour éviter les arnaques en ligne :
 - Il y a de fortes chances que les concours soient truqués.
 - Vous gagnerez toujours plus en apprenant qu'en jouant.
 - En cas de doute, n'agissez pas immédiatement. Prenez le temps de réfléchir et de faire des recherches. Le FOMO (Fear Of Missing Out) peut être votre pire ennemi.
-  Rappelez-vous toujours de faire vos propres recherches avant de prendre une décision d'investissement.
+
+> Rappelez-vous toujours de faire vos propres recherches avant de prendre une décision d'investissement.
+
+### Bitcoin vs Not Bitcoin
 
 Le Bitcoin a subi plusieurs "hard forks" au fil du temps, donnant naissance à diverses versions alternatives de la monnaie originale. Ces déviations sont souvent le fait de développeurs cherchant à apporter des modifications significatives au protocole Bitcoin, ou parfois à des personnes mal intentionnées cherchant à tromper les investisseurs naïfs. Il est essentiel de distinguer le véritable Bitcoin de ces dérivés pour éviter de tomber dans des pièges potentiels. Parmi les exemples notables de ces déviations figurent Bitcoin Cash (BCH) et Bitcoin Satoshi Vision (BSV). Malgré le fait qu'ils portent le nom de "Bitcoin", ces projets sont principalement basés sur des tactiques de marketing et de publicité mensongère pour attirer l'attention des investisseurs.
 
@@ -126,6 +145,8 @@ Le Bitcoin a subi plusieurs "hard forks" au fil du temps, donnant naissance à d
 Un dicton populaire dans le monde de l'investissement dit : "Si ça ressemble à une arnaque, si ça se comporte comme une arnaque, et si ça garantit que ce n'est pas une arnaque, alors il y a de fortes chances que ce soit une arnaque."
 
 Il convient de noter que certaines de ces déviations sont très bien financées et dépensent énormément en communication pour tromper les utilisateurs. Par exemple, le site web "Bitcoin.com" est associé à Bitcoin Cash, et non au Bitcoin original, ce qui peut prêter à confusion pour les novices. Le site officiel de Bitcoin est "bitcoin.org".
+
+### Influenceurs et crypto-gourous
 
 Le monde des crypto-monnaies est un terrain fertile pour toutes sortes de personnalités, attirées par le potentiel de gains significatifs. Parmi elles, on trouve malheureusement des individus mal intentionnés qui recourent à diverses tactiques pour tromper et arnaquer les investisseurs.
 
@@ -140,6 +161,9 @@ Il est donc crucial de rester vigilant et de faire preuve de discernement dans s
 Il est essentiel d'approcher avec prudence les "crypto-influenceurs" ou "gourous" de la crypto-monnaie. Ces individus ont souvent des agendas personnels et peuvent être impliqués dans de nombreux projets qu'ils chercheront à promouvoir, même s'ils ne sont pas toujours dans l'intérêt des investisseurs.
 
 Ces influenceurs peuvent tenter de promouvoir des crypto-monnaies peu fiables, ou "shitcoins", et mettre en œuvre diverses stratégies pour augmenter la valeur de leurs investissements, même si ces derniers sont peu sûrs ou potentiellement frauduleux.
+
+### Petits conseils
+
 Voici quelques conseils pour naviguer dans cet environnement :
 
 - Méfiez-vous de toute personne qui promeut une crypto-monnaie spécifique ou vous propose des transactions.
@@ -167,6 +191,8 @@ Outre les arnaques en crypto-monnaie et autour de la finance, la première raiso
 
 Si ce sujet vous est complètement inconnu, la formation SECU 101 peut être intéressante pour l'approfondir en détail.
 
+### Gestionnaire de mots de passe, 2FA et bonnes pratiques !
+
 Il est crucial de maintenir votre ordinateur dans un état de fonctionnement optimal, que vous vous intéressiez à Bitcoin ou non. Une mise à jour n'est pas seulement là pour ajouter de nouvelles fonctionnalités : elle corrige également les bugs et améliore la sécurité de vos logiciels. Assurez-vous donc de :
 
 - Toujours mettre à jour vos logiciels,
@@ -186,6 +212,8 @@ La 2FA offre une couche de sécurité supplémentaire à vos comptes les plus se
 ![gestionaire de mdp](assets/prerequis/3.JPG)
 ![gestionaire de mdp](assets/prerequis/4.JPG)
 
+### Une bonne vie privée fait partie de votre sécurité
+
 Un VPN, ou réseau privé virtuel, protège votre vie privée en masquant votre adresse IP. Si cela ne vous rend pas complètement anonyme, c'est néanmoins une étape simple et efficace pour améliorer votre confidentialité en ligne. Choisir un VPN, le télécharger et l'utiliser est un processus facile à mettre en place.
 
 L'anonymat en ligne est essentiel pour une société libre et prospère. Il permet la liberté d'expression, la protection des témoins et l'innovation. La confidentialité est un droit humain fondamental. Pour continuer à protéger votre vie privée, envisagez d'utiliser :
@@ -199,7 +227,7 @@ L'anonymat en ligne est essentiel pour une société libre et prospère. Il perm
 
 Ecnore une fois, si ce sujet vous intéresse, la formation SECU 101 est disponible pour vous accompagner.
 
-## Conseils pour novice
+## Conseils pour les débutants
 
 ![Conseil pour débutant](https://youtu.be/juMUJ3MWeZY)
 
@@ -216,6 +244,8 @@ Dans cette section, nous examinerons certaines erreurs courantes que les investi
 - Adopter une perspective à long terme.
 
 ![gestionaire de mdp](assets/prerequis/0.JPG)
+
+### Bitcoin est une nouvelle classe d'actifs.
 
 Avant de plonger dans l'investissement en Bitcoin, il est essentiel de prendre le temps de s'éduquer.
 
@@ -242,6 +272,8 @@ Chacun est différent et doit adapter sa stratégie d'investissement à sa situa
 
 L'objectif n'est pas d'avoir un plan parfait, mais plutôt d'avoir une structure à suivre et à respecter. Vous ne voulez pas acheter sous le coup de l'émotion ou de la peur. Vous voulez suivre une stratégie que vous avez préalablement écrite sur papier pour éviter tout stress inutile.
 
+### Repartons sur des bases solides.
+
 Il n'y a pas d'âge pour apprendre à investir; Vous pouvez commencer avec une somme très faible et progresser avec le temps. L'éducation est un voyage.
 
 - Règle d'or n°1 de l'investissement : n'investissez jamais plus que ce que vous pouvez vous permettre de perdre ! L'idée est de prendre tous vos revenus mensuels, de déduire vos dépenses obligatoires (dettes et autres frais mensuels comme le logement), de déduire vos coûts de vie (nourriture). Il vous reste alors votre budget d'épargne. Si vous investissez plus que cela, tôt ou tard, vous rencontrerez des problèmes !
@@ -249,6 +281,8 @@ Il n'y a pas d'âge pour apprendre à investir; Vous pouvez commencer avec une s
 - Règle d'or n°3 de l'investissement : la planification et avoir une vision à long terme sont essentielles pour réussir en finance. Planifiez et ne prenez pas trop de risques. Le but est d'éviter des échecs fatals tout en accumulant les succès.
 
 Dans le doute: Commencez par vous renseigner. Explorez le monde de Bitcoin pendant quelques heures (vous avez beaucoup de ressource disponible sur cette plateforme). Lisez 2 ou 3 livres. Achetez 5 euros pour essayer. Regardez des documentaires et des vidéos. Ayez l'esprit ouvert.
+
+### Devriez vous trader ?
 
 Comme pour tout investissement, il faut connaître son marché. Le bitcoin est très jeune et volatile, ce qui signifie que les choses changent rapidement et cela implique un certain risque. Le bitcoin peut disparaître, chuter vers 0 ou stagner pendant des années. Il va de soi qu'il ne faut donc investir que ce que vous pouvez vous permettre de perdre ! Ne vous endettez pas pour investir dans une monnaie dont vous ne comprenez peut-être pas encore tous les tenants et aboutissants.
 
@@ -285,6 +319,8 @@ Deux bonnes ressources:
 - Rich Dad, Poor Dad – Robert T Kiyosaki - C'est une bonne première introduction au monde de l’investissement. C'est parfait pour tout le monde.
 - The Investors Podcast- Ce podcast est plus technique, mais il vous donnera une bonne idée du degré de complexité du monde de la finance. Si vous travaillez déjà dans le domaine de la finance ou si cela vous passionne, écoutez quelques-uns de leurs épisodes. Certains d'entre eux parlent de Bitcoin.
 
+### Prudence est mère de sûreté
+
 Pour conclure cette section sur les prérequis, revenons à la première raison de perte financière dans notre industrie : la mauvaise gestion de la clé privée.
 
 Pour rapelle, la clé privée est une liste de 24 mots qui représente la sauvegarde de vos Bitcoins. Il est essentiel de faire preuve d'une extrême prudence à cet égard. Lorsque vous stockez vos Bitcoins sur une plateforme d'échange, c'est la plateforme qui en détient le contrôle, pas vous ! Cette situation comporte des risques tels que la faillite de la plateforme, la confiscation de vos Bitcoins ou le piratage de la plateforme.
@@ -295,11 +331,13 @@ Si vous perdez votre clé, vous perdez également votre argent. Il est préféra
 
 Bonne chance ! J'espère que vous me suivrez dans l'univers du Bitcoin et que vous me permettrez de vous guider pour acquérir et sécuriser vos premiers Bitcoins sans prendre de risques !
 
-# Comprendre dans quoi on se lance
+# Retour sur les fondamentaux
 
 ## Bitcoin en 5 minutes
 
-Dans cette formation, nous voulons nous concentrer sur le plan d'action pour obtenir vos premiers bitcoins. Si vous souhaitez une explication approfondie des fondamentaux du bitcoin, nous vous conseillons BTC 101, disponible gratuitement sur cette plateforme.
+> Dans cette formation, nous voulons nous concentrer sur le plan d'action pour obtenir vos premiers bitcoins. Si vous souhaitez une explication approfondie des fondamentaux du bitcoin, nous vous conseillons BTC 101, disponible gratuitement sur cette plateforme.
+
+### Bitcoin in a nutshell
 
 Bitcoin est un protocole informatique qui permet d'envoyer de la valeur à travers le monde sans intermédiaire de confiance. Cette valeur est représentée par une monnaie appelée bitcoin.
 
@@ -311,6 +349,8 @@ Grâce à ce mécanisme assez bizarre, nous obtenons une base de données (la bl
 Cela permet donc, pour la première fois dans l'histoire de l'humanité, d'avoir un système comptable à triple entrée qui permet à quiconque de pouvoir utiliser un système financier alternatif construit sur Internet sans personne pour le contrôler ou le détruire.
 
 ![in a nutshell](assets/section2/8.JPG)
+
+### Bitcoin est un adolescent.
 
 En plus de son fonctionnement technique (BTC 101 l'explique), on peut noter deux caractéristiques qui font de Bitcoin ce qu'il est aujourd'hui après 14 ans d'existence :
 
@@ -332,6 +372,8 @@ Si cela est nouveau pour vous, je vous encourage vivement à suivre BTC 101 avan
 
 ![pourquoi bitcoin est-il si important](https://youtu.be/Iq0wZF3Ui9A)
 
+### Bitcoin est une mode, ça va disparaître. Vraiment... ?
+
 Pourquoi l'importance de Bitcoin est-elle si cruciale ? C'est là la question centrale de cette université. Que cela concerne vos études ou votre stratégie d'investissement, sans une compréhension claire de l'importance de Bitcoin, vous risquez de dévier de votre plan d'action. L'objectif est donc de toujours garder à l'esprit les fondamentaux de Bitcoin, afin d'assurer que votre stratégie reste en phase avec vos convictions.
 
 Barack Obama a un jour décrit Bitcoin comme "une banque suisse dans votre poche". Et en effet, Bitcoin offre les mêmes opportunités à tout le monde, indépendamment de qui vous êtes. Que vous soyez un adolescent, un président, un manifestant à Hong Kong ou un "gilet jaune" en France, tout le monde a accès à l'identique au même protocole et aux mêmes outils :
@@ -351,15 +393,19 @@ Question philosophique du jour : Dans le monde du bitcoin, deux idéologies se f
 
 Cette question mérite réflexion, et nous y reviendrons ultérieurement.
 
+### L'hyperinflation, ça n'arrive qu'aux autres ! (Non)
+
 Des milliards de personnes vivent sous l'effet néfaste de politiques monétaires mal gérées, qui entraînent souvent des crises financières graves sur le long terme. Ces types de crises ont surgi des centaines de fois dans notre histoire et continueront de le faire tant que la valeur de l'argent et du temps seront manipulés. Ces crises peuvent se manifester sous la forme d'hyperinflation, de contrôle monétaire et de dévaluation de la monnaie.
 
 ![in a nutshell](assets/section2/2.JPG)
 
 Bitcoin offre à chaque individu une chance de sortir de ce système. C'est un choix éthique que chacun sera probablement amené à faire un jour. Bitcoin facilite le passage de l'argent fiduciaire à l'argent sain, grâce à sa résistance à la censure, sa divisibilité et sa portabilité.
 
-**Le saviez-vous** ? Au cours des 100 dernières années, il y a eu plus de 55 cas d'hyperinflation. La plupart ont complètement détruit l'économie de leur pays, anéanti les économies des citoyens et ont parfois créé une instabilité politique qui a conduit à l'établissement d'un régime dictatorial (comme ce fut le cas au Chili, en Allemagne, etc.). La destruction des monnaies fiduciaires n'est pas un phénomène nouveau et continuera de se produire. Cependant, grâce à Bitcoin, vous avez maintenant la possibilité de sortir de ce système.
+> **Le saviez-vous** ? Au cours des 100 dernières années, il y a eu plus de 55 cas d'hyperinflation. La plupart ont complètement détruit l'économie de leur pays, anéanti les économies des citoyens et ont parfois créé une instabilité politique qui a conduit à l'établissement d'un régime dictatorial (comme ce fut le cas au Chili, en Allemagne, etc.). La destruction des monnaies fiduciaires n'est pas un phénomène nouveau et continuera de se produire. Cependant, grâce à Bitcoin, vous avez maintenant la possibilité de sortir de ce système.
 
 ![in a nutshell](assets/section2/3.JPG)
+
+### Un rempart contre l'autoritarisme
 
 L'aggravation des inégalités de richesse dans le monde a conduit à une montée de l'extrémisme, qui a parfois débouché sur l'établissement de régimes dictatoriaux. Peu importe qui vous êtes, un jour vous aurez peut-être besoin de confidentialité pour protéger votre famille, vous-même et vos économies. Où pourriez-vous cacher vos biens si vous étiez menacé politiquement?
 
@@ -373,7 +419,9 @@ Bitcoin est une forme de protestation passive contre l'injustice du système.
 
 ![in a nutshell](assets/section2/4.JPG)
 
-**Le saviez-vous**? Bitcoin est pseudo-anonyme. Une adresse anonyme sert à stocker et à échanger les Bitcoins entre les utilisateurs. Cependant, chaque transaction est inscrite dans un grand livre public (la blockchain) pour que tout le monde puisse la vérifier. Cela signifie que, bien que les noms des utilisateurs ne soient pas divulgués, l'historique de leurs transactions est entièrement transparent.
+> **Le saviez-vous**? Bitcoin est pseudo-anonyme. Une adresse anonyme sert à stocker et à échanger les Bitcoins entre les utilisateurs. Cependant, chaque transaction est inscrite dans un grand livre public (la blockchain) pour que tout le monde puisse la vérifier. Cela signifie que, bien que les noms des utilisateurs ne soient pas divulgués, l'historique de leurs transactions est entièrement transparent.
+
+### Bitcoin propose un changement complet du système financier.
 
 Les banques centrales continuent de diluer votre pouvoir d'achat à travers l'inflation et les politiques de création monétaire (quantitative easing). Ce sont des taxes cachées qui ont progressivement détruit la valeur de l'argent au fil des décennies. Si vous ne disposez pas d'un revenu solide provenant de dividendes, d'obligations ou de placements immobiliers, vous vous appauvrirez au fil du temps, tandis que les riches continueront à s'enrichir davantage. En raison de l'action des banques centrales, un dollar aujourd'hui vaut moins qu'un dollar demain.
 
@@ -381,7 +429,7 @@ Les banques centrales continuent de diluer votre pouvoir d'achat à travers l'in
 
 Le système vous encourage à vous endetter, à dépenser et à enrichir les banquiers grâce aux intérêts payés pendant de nombreuses années de remboursement et d'endettement. Ce n'est pas une erreur, mais une stratégie délibérée mise en place par les banquiers et les politiciens pour stimuler les dépenses gouvernementales, la croissance économique et pousser la population à s'endetter toujours plus.
 
-Notre système est corrompu par les banques centrales. Bitcoin est le remède.
+> Notre système est corrompu par les banques centrales. Bitcoin est le remède.
 
 Il n'y aura jamais plus de 21 millions de bitcoins et aucun politicien, banquier ou autre individu malveillant ne pourra changer cela. Cette limite a été établie dans le protocole de Bitcoin par Satoshi et ne peut être modifiée aujourd'hui. Cela fixe le taux d'inflation de Bitcoin pour les 100 prochaines années.
 
@@ -398,15 +446,18 @@ Vous pensez peut-être que ces scénarios sont peu probables, mais nous explorer
 
 Bitcoin, en revanche, est un système ouvert et incorruptible. Les règles sont fixes et les mêmes pour tous. La célèbre phrase "Pas votre clé, Pas vos Bitcoins" souligne l'importance de détenir la clé privée d'un portefeuille Bitcoin. En possédant la clé privée, vous avez le contrôle total sur les Bitcoins qu'elle contient. Si vous ne détenez pas cette clé, cela signifie que quelqu'un d'autre détient vos Bitcoins pour vous. Dans ce cas, vos Bitcoins sont exposés à des risques similaires à ceux associés à une banque traditionnelle.
 
-Pour retrouver votre souveraineté, il est essentiel de prendre le contrôle de votre clé privée et de sécuriser vos Bitcoins par vous-même.
+> Pour retrouver votre souveraineté, il est essentiel de prendre le contrôle de votre clé privée et de sécuriser vos Bitcoins par vous-même.
 
 Bitcoin offre une alternative puissante aux systèmes financiers traditionnels. Il permet à chacun de préserver sa vie privée, de se protéger contre l'inflation et la dévaluation monétaire, de contourner les régimes autoritaires et de regagner la souveraineté sur son argent. Bitcoin est une monnaie saine, accessible à tous sans distinction d'âge, de genre, de religion ou de revenus. En adoptant Bitcoin, les individus peuvent épargner pour l'avenir, se libérer de l'emprise des banques centrales et reprendre le contrôle de leur vie financière. C'est un outil qui permet de rééquilibrer les pouvoirs et de promouvoir la liberté économique à l'échelle mondiale.
 
-![in a nutshell](assets/section2/11.JPeG)
+![in a nutshell](assets/section2/11.JPG)
 
-Bitcoin, un mouvement politique ?
+### Bitcoin, un mouvement politique ?
+
 Les principaux promoteurs de Bitcoin aujourd'hui sont encore principalement des cyberpunks, des citoyens opprimés, des anarchistes, des adeptes de l'école autrichienne d'économie, des ingénieurs en informatique, des financiers et des défenseurs de la liberté d'expression.
-Bitcoin possède une dimension hautement philosophique, éthique et politique tout en étant totalement indifférent à ces considérations. En effet, Bitcoin est un simple protocole qui reproduit le même processus encore et encore. Ce sont ses utilisateurs qui ont fait de lui une arme de libération contre le système financier actuel. Du point de vue Cyberpunk, Bitcoin s'oppose à une société sans espèces. Il permet de créer des transactions financières numériques entièrement privées et sans intermédiaire. Pour le mouvement cyberpunk, Bitcoin est l'équivalent électronique de l'argent liquide.
+Bitcoin possède une dimension hautement philosophique, éthique et politique tout en étant totalement indifférent à ces considérations.
+
+En effet, Bitcoin est un simple protocole qui reproduit le même processus encore et encore. Ce sont ses utilisateurs qui ont fait de lui une arme de libération contre le système financier actuel. Du point de vue Cyberpunk, Bitcoin s'oppose à une société sans espèces. Il permet de créer des transactions financières numériques entièrement privées et sans intermédiaire. Pour le mouvement cyberpunk, Bitcoin est l'équivalent électronique de l'argent liquide.
 
 ## Comprendre l'industrie du Bitcoin
 
@@ -420,6 +471,8 @@ Bitcoin s'en moque, il existe tout simplement.
 ![industrie](assets/industrie/2.JPG)
 
 Dans cette section nous tacherons de faire un rapide tour d'horizone des acteurs pour meiux comrpendre comment focntionne l'industrie dans laquelle on cherche a entré.
+
+### Bitcoin VS Alt-coin
 
 Il est possible pour quiconque de concevoir sa propre cryptomonnaie - une tâche qui ne demande que quelques minutes. Cependant, la valeur de ce token sera exclusivement déterminée par le marché. En décembre 2019, plus de 5000 tokens étaient répertoriés sur Coinmarketcap. Aujourd'hui, en 2023, ce nombre est passé à plus de 23 000, avec des NFT, de la DeFi et bien d'autres choses. Ces jetons cryptographiques peuvent prendre différentes formes : monnaie, titre de sécurité, carburant pour un écosystème, sidechain, art numérique, etc.
 
@@ -447,6 +500,8 @@ Ne vous faites pas avoir avec des phrases comme :
 
 Il est essentiel de faire des recherches personnelles si vous décidez de vous plonger dans le monde des alt-coins mais ce n'est pas ici qu'on vous guidera.
 
+### Les blockchains privées, une fausse bonne idée.
+
 À la suite de la bulle ICO de 2017, de nombreux acteurs majeurs ont commencé à développer leur propre base de données en utilisant la "blockchain". Les gouvernements et les banques centrales explorent la possibilité de créer une version numérique de leur monnaie Fiat (Suède, Europe, Russie, Chine, etc.). Les géants de la technologie se joignent également à cette course. Facebook a lancé son propre projet de stablecoin appelé "Libra". Des alternatives à la "blockchain" sont expérimentées par les banques, les corporations et d'autres géants technologiques avec des solutions comme Linux ou IBM "Hyperledger".
 
 | Caractéristique        | Bitcoin | Alt-coin | Facebook-coin | Fed-coin |
@@ -466,6 +521,8 @@ Le protocole Bitcoin est hors de portée des réglementations. Seuls les acteurs
 ![blockchain](assets/industrie/3.JPG)
 
 Il est recommandé de mener des recherches approfondies concernant la situation dans votre pays. Les banques sont également très réglementées concernant Bitcoin. Bon nombre d'entre elles ferment les comptes et limitent l'accès aux services financiers des entreprises traitant en Bitcoin, tout en constituant des équipes de recherche pour explorer cette nouvelle technologie dans le but d'améliorer leur propre infrastructure. Aucun régulateur, banque ou gouvernement ne souhaite perdre de pouvoir, ils se préparent donc à faire face à Bitcoin. Il est important de noter que Bitcoin, en tant que tel, ne peut être modifié ou contrôlé par une seule entité.
+
+### Les "brokers" Bitcoin, les portes d'entrée et de sortie de l'industrie.
 
 Les plateformes d'échange servent de lien entre la monnaie fiduciaire (monnaie gouvernementale) et les cryptomonnaies. Elles donnent la possibilité à leurs clients d'acheter ou de vendre des cryptomonnaies via leur plateforme. Chaque plateforme d'échange possède des spécificités différentes. Voici quelques aspects à considérer :
 
@@ -492,6 +549,8 @@ Dans le spectre des plateformes d'échange on peut distinguer 5 gros types:
 
 N'oubliez jamais de retirer vos bitcoins d'une plateforme d'échange Les plateformes d'échange peuvent être piratées, saisies, faire faillite ou tout simplement disparaître avec votre argent. Elles présentent des risques importants et doivent être évitées autant que possible. N'y laissez jamais vos fonds pendant une longue période. Rappelez-vous : si vous n'avez pas les clés, les bitcoins ne sont pas à vous.
 
+### Les fabricants de coffres-forts Bitcoin.
+
 Les bitcoins sont conservés dans ce qu'on appelle un "portefeuille", qui est un coffre-fort numérique pour votre argent. Seul le détenteur de la clé peut y accéder. Il peut s'agir d'un dispositif matériel, d'un logiciel d'application ou même d'un morceau de papier. Ces portefeuilles font le lien entre vos bitcoins et le monde extérieur.
 Chaque portefeuille présente différentes caractéristiques :
 
@@ -506,7 +565,9 @@ Dans notre industrie, nous pouvons donc diviser les acteurs des portefeuilles en
 - Les créateurs de software wallets ; ce sont des sociétés ou des acteurs indépendants qui souhaitent créer des portefeuilles logiciels sur mobile ou ordinateur (ex : Wizard Sardine, Galoy, Synonyme, Blockstream).
 - Les portefeuilles DIY (Do It Yourself) ; ici, nous avons des solutions 100 % open source que l'on peut créer chez soi afin de réduire les risques de confiance envers les autres acteurs de la chaîne de production ou de création (ex : Seedsigner, Specter DIY).
 
-Les portefeuilles sont un aspect primordial de Bitcoin et nous les explorerons en détail dans cette université.
+Les portefeuilles sont un aspect primordial de Bitcoin et nous les explorerons en détail dans cette université (Crypto301 abordera le sujet en détail).
+
+### Les fameux mineurs !
 
 Les mineurs sont chargés de sécuriser le réseau. Ils utilisent l'électricité pour effectuer les processus de preuve de travail de Bitcoin, ce qui crée un nouveau bloc. Nous avons déjà traité le sujet des mineurs en détail dans le cours BTC 101, au besoin. Pour aller plus loin, nous proposons le cours Minage 201.
 
@@ -521,7 +582,11 @@ Leur industrie se divise en de nombreux acteurs de tailles variées :
 - Les developeurs qui travailles sur des solution innovante type StratumV2
 - Les mineurs : ce sont eux qui utilisent les machines et les logiciels pour lancer leurs opérations de minage. On peut trouver aussi bien de petits mineurs amateurs utilisant un S9 (comme nous l'enseignons dans la formation Minage 201) que des mineurs internationaux comme Galaxy qui possèdent des gigantesques entrepôts au Texas pour miner.
 
-Le minage est un domaine à part entière, donc si le sujet de l'énergie vous intéresse, vous serez servi.
+Le minage est un domaine à part entière, donc si le sujet de l'énergie vous intéresse, vous serez servi avec notre formation MINAGE 201.
+
+### Bitcoin c'est avant tous des 0 et 1.
+
+![blockchain](assets/industrie/5.JPG)
 
 Bitcoin est un protocole en source ouverte. Vous pouvez trouver son code sur GitHub : https://github.com/bitcoin/bitcoin. À partir de là, vous pouvez consulter toutes les propositions de mises à jour, toute la documentation et de nombreuses discussions communautaires. Tout est transparent, et c'est à l'utilisateur de décider de faire ou non une mise à jour. Les développeurs principaux de Bitcoin sont responsables de la gestion de ce GitHub. Ils mettent à jour le code source, vérifient les bugs et sont chargés de la gestion globale du projet.
 
@@ -537,13 +602,13 @@ Tout le monde peut commencer à contribuer au code, mais il est important de not
 
 Un pouvoir illimité ? Non. Les développeurs principaux n'ont pas un pouvoir illimité et ne peuvent pas modifier ou contrôler Bitcoin seuls. Ce sont les nœuds qui détiennent le pouvoir. Personne ne contrôle Bitcoin.
 
-![blockchain](assets/industrie/5.JPG)
+Si les aspects plus liés à la programmation vous intéressent, vous serez servis avec LN 201 !
 
-## L'architecture en couches de Bitcoin
+### Un protocole en constant changement
 
 Bitcoin, en tant que protocole open source, peut être complété et enrichi par des couches de protocoles/applications ajoutées par quiconque. Certaines de ces fonctionnalités sont plus significatives que d'autres, créant un écosystème dynamique avec une multitude d'entreprises contribuant à l'élaboration de l'infrastructure. Des exemples de tels projets incluent : les Sidechains (par exemple, Liquid Chain par Blockstream), le Lightning Network par Lightning Labs, et des concepts d'identité (par exemple, Microsoft ION). Ces projets sont comme des strates supplémentaires ajoutées au protocole Bitcoin initial.
 
-**Le saviez-vous** ? Internet n'a pas été construit en un seul bloc. Il est plutôt le résultat de plusieurs couches de protocoles empilées les unes sur les autres - HTTP, TCP, IP. De cette manière, chaque couche est extrêmement efficace pour accomplir la tâche qui lui est spécifiquement attribuée, tandis que les autres niveaux répondent à d'autres besoins.
+> **Le saviez-vous** ? Internet n'a pas été construit en un seul bloc. Il est plutôt le résultat de plusieurs couches de protocoles empilées les unes sur les autres - HTTP, TCP, IP. De cette manière, chaque couche est extrêmement efficace pour accomplir la tâche qui lui est spécifiquement attribuée, tandis que les autres niveaux répondent à d'autres besoins.
 
 Lightning est maintenant accessible a tous, c'est la couche d’application de Bitcoin
 Le Réseau Lightning est la seconde couche de Bitcoin. Il permet à Bitcoin de s'étendre et d'obtenir plus de fonctionnalités. Il fonctionne comme une ardoise dans un bar, les transactions restent sur papier et sont finaliser qu’à la fin. Nous l'étudierons en détail plus tard.
@@ -573,6 +638,8 @@ C'est Andreas Antonopoulos, si je ne me trompe pas, qui m'a introduit à cette i
 
 # Structurer votre plan
 
+## Êtes-vous prêt ?
+
 Maintenant que nous avons revu les bases fondamentales et appris comment éviter les arnaques et les pertes d'argent, nous pouvons élaborer notre plan. Le plan sera assez simple pour commencer, mais il est important de se lancer. Vous pourrez toujours le modifier à mesure que le temps passe.
 
 Dans cette formation, nous considérerons que vous êtes débutant dans Bitcoin, et donc la solution doit être simple, rapide à mettre en place et efficace. Nous ne parlerons donc pas de l'exposition à Bitcoin par le biais du minage, des sociétés Bitcoin en bourse ou d'autres choses complexes. L'objectif est de choisir le bon portefeuille pour vous, puis la bonne solution pour obtenir vos premiers bitcoins.
@@ -596,7 +663,7 @@ En règle général :
 
 Avec ca vous devriez trouver votre compte, choisir le plan adapté puis suivre le bon tutoriel de la section suivant.
 
-**Rappel :** Si vous ne possédez pas la clé privée (une liste de 24 mots), une tierce partie est responsable de la sécurité de vos bitcoins. Autrement dit, vous ne détenez plus vos bitcoins. Ils sont soumis aux mêmes risques que les plateformes d'échange tel que le piratage, la saisie, la régulation ou la faillite.
+> **Rappel :** Si vous ne possédez pas la clé privée (une liste de 24 mots), une tierce partie est responsable de la sécurité de vos bitcoins. Autrement dit, vous ne détenez plus vos bitcoins. Ils sont soumis aux mêmes risques que les plateformes d'échange tel que le piratage, la saisie, la régulation ou la faillite.
 
 ## Le hodler
 
@@ -668,154 +735,6 @@ Pour ce type de profil, la solution pour les débutants est assez simple :
 
 Il devra ensuite apprendre à mélanger ses coins, gérer ses UTXO (Unspent Transaction Outputs) et bien d'autres choses qui n'ont pas encore été abordées dans ce cours. Si nécessaire, toutes les informations sont disponibles sur l'université.
 
-# Tutoriel de portefeuilles
-
-## Portefeuille chaud
-
-Nous allons désormais mettre ne place votre portfeuille bitcoin ou lightning de type mobile. Comme nous l'avons discuté plus tot dans le cours ce portfeuille ce type de portfeuille sont parfait pour des montant faibles ou pour un usage régulier.
-
-### wallet of satoshi (ultra beginners)
-
-![video tuto](https://youtu.be/Es4InK3lq5c)
-
-### Phoenix
-
-![phoenix](assets/0.jpeg)
-
-Phoenix est un portefeuille lightning non-custodial créé par Acinq, l'équipe derrière l'implementation Lightning Eclair.
-
-Pour retrouver leur documentation officielle référez-vous à leur guide FAQ: https://phoenix.acinq.co/faq
-
-![ Phoenix: Bitcoin Lightning Wallet Tutorial](https://www.youtube.com/watch?v=Cx5PK1H5OR0)
-
-### Green wallet
-
-Sa mise en place est facile et son interface est conçue pour les débutants.
-
-Si tu souhaites faire un tour sur leur site, c’est juste [ici](https://blockstream.com/green/)
-
-![vidéo tuto green wallet](https://www.youtube.com/watch?v=lONbCS31am4)
-
-### Samouraï Wallet
-
-![cover](assets/tuto/10.jpeg)
-
-Samouraï Wallet est un portefeuille qui se consacre à la vie privée. Malgré son aspect chaud, il offre un grand nombre de flexibilité dans son utilisation et sa sécurité. Comme c'est un wallet non-custodial, vous devrez sauvegarder dans un lieu sûr vos 12 mots et obligatoirement inclure une passphrase à ne surtout pas perdre.
-
-Une fois dans le wallet, l'envoi et la réception se fait de façon classique avec néanmoins énormément d'outils de vie privée tels que **Ricochet**, **Stonewall**, **Whirlpool**, **JoinMarket**, les **PayNyms** et d'autres.
-
-Pour retrouver des explications sur chacun de ces outils, vous pouvez vous référer à la section **"Outils de vie privée"** dans le tutoriel ou vous rendre sur le [site officiel de documentation de Samouraï Wallet](https://docs.samourai.io/)
-
-[![Vidéo tutoriel de Rogzy](https://www.youtube.com/watch?v=qVRMAAjNN1w)](https://www.youtube.com/watch?v=qVRMAAjNN1w)
-
-[![Vidéo tutoriel de JohnOnChain sur le mixage](https://www.youtube.com/watch?v=kS6iC_ovarQ&t=1s)](https://www.youtube.com/watch?v=kS6iC_ovarQ&t=1s)
-
-Nous avons ici essayer de garder la liste relativement courte pour vous simplifier le choix. Il va de soit que si vous êtes du genre à regarder toute les solutions avant de vous lancer je vous invite à vous rendre sur la page tutoriel de cette université pour avoir la liste complète des portefeuilles.
-
-## Portefeuille froid
-
-Comme nous l'avons vu tres souvent un portefeuille froid permet de sécuriser des montants important de bitcoins (attention au-dessus d'environ 50 000€ vous devriez utiliser au moins une passphrase ou un portefeuille multi-sig). Il existe de nombreux hardware wallet, ici nous vous en proposons 3. Vous pouvez tous les retrouver dans la section tutoriel de cette université si besoin.
-
-### Rrezor model ONE
-
-![cover](assets/tuto/8.jpeg)
-
-Un portefeuille physique froid Trezor est idéal pour commencer dans Bitcoin. C’est facile d’utilisation, pas trop cher et fonctionnel.
-
-Nous avons déjà réalisé des tutoriels sur son utilisation :
-
-1. Mise en place https://www.youtube.com/watch?v=WB5lWEaaJOE
-2. Récupération des bitcoins https://www.youtube.com/watch?v=bwM0Xm_vSYM
-3. Utilisation, envoi et réception de bitcoins https://youtu.be/ks-VHtsqjig
-
-### Ledger Nano S
-
-![cover](assets/tuto/7.jpeg)
-
-![video tuto](https://www.youtube.com/watch?v=_vsHNTLi8MQ)
-
-### bit box 02
-
-![cover](assets/tuto/6.jpeg)
-
-Le BitBox02 est un portefeuille matériel suisse spécialement conçu pour sécuriser vos Bitcoins. Voici quelques-unes de ses principales caractéristiques :
-
-![video rogzy](https://www.youtube.com/watch?v=E2Px3qx7vYk)
-
-Bien que ces 3 portefeuilles soient parmi les plus simples, il en existe bien d'autres. Voici quelques tutoriels rapides :
-
-- Jade : https://youtu.be/_U1jsTeqbTw
-- Coldcard : https://youtu.be/FAYmE5-40PQ
-- Fondation : https://youtu.be/_uGZHg64wwA
-
-Dans le monde des portefeuilles Bitcoin, il existe un autre concept en dehors de la distinction entre les portefeuilles froids et chauds, il s'agit du portefeuille de bureau (desktop wallet).
-
-Si votre appareil de stockage est en réalité un porte-clés (privées), le portefeuille de bureau est une interface pour l'utiliser. Il est extrêmement puissant et pratique pour les détenteurs de Bitcoin, car ces solutions offrent une plus grande flexibilité d'utilisation. En effet, ces portefeuilles permettent souvent des outils avancés en termes de vie privée et offrent une plus grande flexibilité dans l'utilisation des UTXO. Certains se spécialisent même dans les transactions multi-signatures pour renforcer encore davantage votre sécurité.
-
-L'utilisation de solutions telles que Sparrow, Specter ou Liana est très intéressante, mais je vous laisse les découvrir dans un second temps !
-
-# Tutoriel pour acheter du bitcoin
-
-## Solution de DCA (achat récurent)
-
-Dans cette section de tutoriel nous allons regarder comment mettre en place votre plan de DCA et ainsi commencer a simplement stacker des sats sans effort.
-
-### Relai (Suisse)
-
-![cover](assets/tuto/3.jpeg)
-
-Relai est une très bonne solution de DCA Bitcoin sans prise de tête. Pas besoin de KYC et vous avez la sécurité suisse derrière le projet.
-
-![video](https://www.youtube.com/watch?v=sAPx1waWa1s)
-
-### Stakin Sat (francais)
-
-StackinSat est la petite française spécialisée dans le plan d’épargne Bitcoin. Le service est très bon et j’en parle énormément sur la chaîne. Je suis même actionnaire chez eux !
-Stack des sats !
-
-![video](https://www.youtube.com/watch?v=mpT3kJDfRVw)
-
-### Bull Bitcoin (canadien)
-
-![video](https://youtu.be/Qennqc-wMgQ)
-
-### Swan Bitcoin (USA)
-
-![tutorial](https://youtu.be/h-SFzjsYAOA)
-
-## Plateforme traditionelle
-
-### Kraken
-
-![cover](assets/tuto/1.jpeg)
-
-Kraken est une plateforme d’achat revente de Bitcoin. L'utilisation est KYC et également Lightnig compatible. Cette fonctionnalité LN est particuluemrement pratique pour les gens rentrant dans l'univers du lightning network ou qui ont un usage régulier de bitcoin
-
-![vidéo tuto kraken](https://www.youtube.com/watch?v=ZCGXl5A2Hbc)
-
-### Bitstamp
-
-![cover](assets/tuto/0.jpeg)
-
-Bitstamp est un « broker » Bitcoin pour acheter et vendre du bitcoin, il y a énormément de volumes et d’options. C’est idéal pour les société ou les acheteurs amateur.
-
-![tutoriel Bitstamps](https://www.youtube.com/watch?v=8g9aGQ53T_A)
-
-## Solutions non-KYC
-
-Nous ne rentrerons pas dans les détails de ce genre de solution, en effet une formation entiere dédier a l'achat non KYC existe et c'est BTC 205.
-
-Le non-KYC est un aspect primodiale de votre parcours bitcoin et votre sécurité. Il permet de s'exposer sans pour autant dévoiler trop d'information personne à un tier de confiance. Ceci evite donc de se retoruver compromit avec son nom, prenom, adresse et autre information sensible dans des base de donné de hackeur.
-
-Si ce type de solution vous intersse voici une liste de solution que vous pouvez retrouver dans la section tutoriel ou BTC 205:
-
-- Robosat
-- Peach
-- Hodl Hodl
-- Bisq
-- LN2t2Bot
-- Distributeur
-
 # Le futur avec Bitcoin
 
 ## Création d'un plan d'héritage
@@ -886,7 +805,7 @@ Séparation des responsabilités : La personne de confiance ne devrait JAMAIS av
 
 | Personne de confiance   | Confiance   | Connaissance en BTC | Info de Confiance      | Note                                                                                            |
 | ----------------------- | ----------- | ------------------- | ---------------------- | ----------------------------------------------------------------------------------------------- |
-| Mon frère Bob           | Très grande | Basse               | Téléphone & mail       | "Bob ne sait pas grand chose sur les BTC, mais on peut lui faire confiance à 100 % pour aider." |
+| Mon frère Bob           | Très grande | Basse               | Téléphone & mail       | "Bob ne sait pas grand-chose sur les BTC, mais on peut lui faire confiance à 100 % pour aider." |
 | Mon cousin Nathan       | Grande      | Moyenne             | Téléphone & insta      | N°1 des personnes à qui parler. Il peut vous aider. Il est au courant.                          |
 | Ricco (Crypto pote)     | Moyenne     | Très grande         | Twitter & mail & photo | Faire confiance sur les questions techniques. Jamais avec l'argent. Il faudra le contacter.     |
 | Youtubeur & influenceur | Basse       | Grande              | Lien YTB               | Instruisez-vous en le suivant. Il ne peut pas vous aider directement.                           |
@@ -993,12 +912,12 @@ Si vous avez coché toutes les cases, alors vous êtes prêt pour les dernières
 
 Bravo! Vous avez une première version de votre plan d'héritage et c'est un excellent début!
 
-_Cryptoasset Inheritance Planning, A simple guide for owners, Pamela Morgan, ESQ. Copyright 2018 by Merkle Bloom LLC, All rights reserved. CC-BY_ Un grand merci à Pamela Morgan pour son travail précieux et pour m'avoir autorisé à le partager. Merci également à tous ceux qui ont contribué à son écriture.
+> _Cryptoasset Inheritance Planning, A simple guide for owners, Pamela Morgan, ESQ. Copyright 2018 by Merkle Bloom LLC, All rights reserved. CC-BY_
+
+Un grand merci à Pamela Morgan pour son travail précieux et pour m'avoir autorisé à le partager. Merci également à tous ceux qui ont contribué à son écriture.
 Vous êtes les meilleurs :D Mon équipe et mes étudiants vous remercient également!
 
-# Remerciements et continuez à creuser le terrier du lapin
-
-## Féliciation ! VOUS ÊTES DANS LE TOP 0,1%
+## Vous etes le top 1%
 
 Si vous avez suivi notre contenu depuis le début, vous êtes maintenant un véritable citoyen du 21e siècle et l'un des plus aguerris dans le domaine du Bitcoin ! Vous utilisez un gestionnaire de mots de passe et la double authentification (2FA). Vous comprenez ce qu'est le Bitcoin et pourquoi il est important. Vous possédez des Bitcoins et avez un moyen sûr d'en acheter ou d'en gagner plus. Vous avez stocké vos Bitcoins dans un portefeuille "froid" et avez mis en place une gestion des clés adéquate. Vous avez créé un plan d'héritage pour vos proches. Vous êtes maintenant en sécurité et pouvez vous détendre! Savourez une bière et soyez fier de vous!
 
@@ -1012,9 +931,3 @@ Je suis vraiment fier que vous ayez atteint ce stade. Je le pense sincèrement. 
 - solution commerçante : enfin, si vous êtes plus du genre à vouloir vraiment utiliser Bitcoin, vous pouvez aller dans notre section tutoriels et ainsi explorer les nombreuses solutions pour les commerçants. Cela peut d'un côté vous offrir des opportunités dans notre milieu, mais aussi vous permettre d'aider votre entreprise ou vos amis à accepter Bitcoin dans leur commerce et ainsi faire tourner une économie locale basée sur Bitcoin dans votre ville !
 
 Dans tous les cas, toutes nos formations restent gratuites et de nombreuses ressources ou tutoriels sont disponibles sur notre plateforme pour vous accompagner. Bonne continuation dans vos études !## Note la formation !
-
-## Soutiens la formation !
-
-Ce cours, ainsi que l'intégralité du contenu présent sur cette université, vous a été offert gratuitement par notre communauté. Pour nous soutenir, vous pouvez le partager autour de vous, devenir membre de l'université et même contribuer à son développement via GitHub. Au nom de toute l'équipe, merci !
-
-## allez plus loin
