@@ -1,21 +1,21 @@
 ---
 name: BTC 102 – Obtenir ses premiers bitcoins
-goal: Obtenir ses premiers bitcoins et les stocker dans un portefeuille Bitcoin de façon sécurisé avec une mnemonic phrase et un plan d’héritage.
+goal: Obtenir ses premiers bitcoins et les stocker dans un portefeuille Bitcoin de façon sécurisée avec une phrase mnémonique et un plan d'héritage.
 objectives:
   - Mettre à jour votre sécurité en ligne
-  - Comprenez les concepts clés liés à Bitcoin
-  - Établissez votre premier portefeuille adapté à vos besoins et ressources
-  - Apprenez où et comment obtenir vos premiers bitcoins
+  - Comprendre les concepts clés liés à Bitcoin
+  - Établir votre premier portefeuille adapté à vos besoins et ressources
+  - Apprendre où et comment obtenir vos premiers bitcoins
   - Mise en place d'un plan d'héritage
 ---
 
 # Un voyage vers vos premiers bitcoins
 
-L’industrie qui entoure Bitcoin est en plein boom.
+À travers ce cours, nous allons vous accompagner dans la mise en place de votre plan Bitcoin. Il vous guidera tout au long de vos débuts afin d'éviter de se faire arnaquer ou de faire des erreurs.
 
-Les changements technologiques et financiers de ce nouveau monde ne font qu’accélérer, c’est à vous d’en prendre avantage et de commencer à tomber dans le Terrier du Bitcoin. Cette aventure sera riche en savoir et vous poussera à remettre en question grand nombre de vos convictions. Cela va vous redonner de la liberté et vous permettre de regagner de la vie privée, de la souveraineté et de l’indépendance financière.
+L'idée de ce plan est, dans un premier temps, de se préparer en créant un plan d'action concret par rapport à vos biens. Dans un second temps, nous allons mettre en place les outils nécessaires pour obtenir et stocker vos premiers bitcoins. Enfin, nous allons nous assurer de ne pas les perdre en mettant en place un plan d'héritage bitcoin!
 
-Pour vous aider à commencer cette aventure, j’ai créé ce cours gratuit. Uniquement Bitcoin, pas de conneries, pas d’autres cryptomonnaies, un cours direct sans détour. Ce cours a été conçu pour s’adapter à vous et vous laisser libre de choisir le chemin qui vous convient.
+En suivant ce plan, nous espérons que vous aurez toutes les cartes en main pour y arriver et ainsi débuter votre journey dans Bitcoin en sécurité ! Bonne chance :)
 
 +++
 
@@ -42,7 +42,7 @@ Bonne chance :)
 
 # Prérequis pour comprendre Bitcoin
 
-## Arnaques et fraudes financières
+# Arnaques et fraudes financières
 
 Nous sommes dans une industrie ou deux branches principales émergent dans le secteur des "cryptomonnaies" :
 
