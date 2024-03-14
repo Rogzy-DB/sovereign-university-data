@@ -1,0 +1,9 @@
+events:
+  - date start:
+    date finish:
+    location:
+    name:
+    description:
+    price:
+    tag:
+      - big

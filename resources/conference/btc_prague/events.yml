@@ -1,0 +1,15 @@
+events:
+  - date start: 2024-08-24T08:00:00.000Z
+    date finish: 2024-08-26-T08:00:00.000Z
+    location: Prague, Czech Republic
+    name: BTC PRAGUE 2024
+    links:
+      website: https://www.btcprague.com
+      twitter: https://twitter.com/BtcPrague
+      telegram: https://t.me/+or9p6QLrhpswYjA1
+      Nostr: npub167n5w6cj2wseqtmk26zllc7n28uv9c4vw28k2kht206vnghe5a7stgzu3r
+      youtube: https://www.youtube.com/@BTCPrague
+    description: The biggest, most influential bitcoin event in Europe ever, again!
+    price:
+    tag:
+      - big
