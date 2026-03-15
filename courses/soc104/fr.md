@@ -18,7 +18,7 @@ Ce cours vous révélera aussi pourquoi Bitcoin est plus qu'une simple monnaie :
 
 # Introduction 
 
-<partId>8aef3eca-aa4c-405a-8b32-7fd7993b3e04</partId>
+<partId>4fe21fff-d3d5-4db6-8885-96b344bf09dc</partId>
 
 ## Le piège du clivage droite-gauche
 
